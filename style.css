@@ -1,0 +1,10 @@
+h1{
+    color: rgb(44, 62, 80);
+}
+body{
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+#lista-habil{ 
+    font-style: italic;
+}
